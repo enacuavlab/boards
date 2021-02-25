@@ -1,0 +1,1205 @@
+269244076779175
+_Capacitors_GRZ
+C_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+_Capacitors_GRZ
+C_0603
+Capacitor SMD 0603, reflow soldering
+capacitor 0603
+0
+2
+2
+_Capacitors_GRZ
+C_0805
+Capacitor SMD 0805, reflow soldering
+capacitor 0805
+0
+2
+2
+_Capacitors_GRZ
+C_1206
+Capacitor SMD 1206, reflow soldering
+resistor 0402
+0
+2
+2
+_Capacitors_GRZ
+EIA_3216-18
+
+capacitor tantalum smd
+0
+2
+2
+_Capacitors_GRZ
+EIA_3528-21
+
+capacitor tantalum smd
+0
+2
+2
+_Capacitors_GRZ
+EIA_7260-38
+Tantalum capacitor, Case E, EIA 7260-38, 7.3x6.0x3.6mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+_Capacitors_GRZ
+EIA_7343-31
+Tantalum capacitor, Case X, EIA 7343-43, 7.3x4.2x4.0mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+_Capacitors_GRZ
+EIA_7343-43
+Tantalum capacitor, Case X, EIA 7343-43, 7.3x4.2x4.0mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+_Capacitors_GRZ
+EIA_7360-38
+Tantalum capacitor, Case E, EIA 7260-38, 7.3x6.0x3.6mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+_Connectors_GRZ
+1042
+18650 Battery Holder Keystone
+
+0
+2
+2
+_Connectors_GRZ
+1042P
+18650 Polarized Battery Holder Keystone
+
+0
+2
+2
+_Connectors_GRZ
+BF090-10-A-1-N
+
+2.0mm pitch socket single row SMD dual entry
+0
+10
+10
+_Connectors_GRZ
+DSUB-9_Female_Vertical
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+11
+10
+_Connectors_GRZ
+DSUB-9_Male_Vertical
+
+9-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 25mm
+0
+11
+10
+_Connectors_GRZ
+MicroSD_500901-0801
+
+
+0
+12
+9
+_Connectors_GRZ
+MicroSD_503182-1852
+
+
+0
+15
+11
+_Connectors_GRZ
+PJP-20052
+PCB socket for 2mm plug
+socket 2mm PCB
+0
+1
+1
+_Connectors_GRZ
+PJP-20052_single_side
+PCB socket for 2mm plug
+socket 2mm PCB
+0
+1
+1
+_Connectors_GRZ
+PJP-60560
+4mm plug for panel mount
+plug 4mm panel
+0
+1
+1
+_Connectors_GRZ
+PJP-60560_cap
+4mm plug for panel mount
+plug 4mm panel
+0
+1
+1
+_Connectors_GRZ
+PJP-60560_screw
+4mm plug for panel mount
+plug 4mm panel
+0
+1
+1
+_Connectors_GRZ
+PicoBlade_53047-0210
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+2
+2
+_Connectors_GRZ
+PicoBlade_53047-0310
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+3
+3
+_Connectors_GRZ
+PicoBlade_53047-0410
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+4
+4
+_Connectors_GRZ
+PicoBlade_53047-0510
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+5
+5
+_Connectors_GRZ
+PicoBlade_53047-0610
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+6
+6
+_Connectors_GRZ
+PicoBlade_53047-0710
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+7
+7
+_Connectors_GRZ
+PicoBlade_53047-0810
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+8
+8
+_Connectors_GRZ
+PicoBlade_53047-0910
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+9
+9
+_Connectors_GRZ
+PicoBlade_53047-1010
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+10
+10
+_Connectors_GRZ
+PicoBlade_53048-0210
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+2
+2
+_Connectors_GRZ
+PicoBlade_53048-0310
+Molex PicoBlade, single row, top entry type, through hole, PN:53047-0310
+connector molex picoblade
+0
+3
+3
+_Connectors_GRZ
+PicoBlade_53261-0271
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+4
+2
+_Connectors_GRZ
+PicoBlade_53261-0371
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+5
+3
+_Connectors_GRZ
+PicoBlade_53261-0471
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+6
+4
+_Connectors_GRZ
+PicoBlade_53261-0571
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+7
+5
+_Connectors_GRZ
+PicoBlade_53261-0671
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+8
+6
+_Connectors_GRZ
+PicoBlade_53261-0771
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+9
+7
+_Connectors_GRZ
+PicoBlade_53261-0871
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+10
+8
+_Connectors_GRZ
+PicoBlade_53261-0971
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+11
+9
+_Connectors_GRZ
+PicoBlade_53261-1071
+Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
+connector molex picoblade smt
+0
+12
+10
+_Connectors_GRZ
+PicoBlade_53398-0271
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+4
+2
+_Connectors_GRZ
+PicoBlade_53398-0371
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+5
+3
+_Connectors_GRZ
+PicoBlade_53398-0471
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+6
+4
+_Connectors_GRZ
+PicoBlade_53398-0571
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+7
+5
+_Connectors_GRZ
+PicoBlade_53398-0671
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+8
+6
+_Connectors_GRZ
+PicoBlade_53398-0771
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+9
+7
+_Connectors_GRZ
+PicoBlade_53398-0871
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+10
+8
+_Connectors_GRZ
+PicoBlade_53398-0971
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+11
+9
+_Connectors_GRZ
+PicoBlade_53398-1071
+Molex PicoBlade, single row, top entry type, surface mount, PN:53398-0271
+connector molex picoblade smt
+0
+12
+10
+_Connectors_GRZ
+TSW-103-07-G-S
+
+
+0
+3
+3
+_Connectors_GRZ
+TSW-103-25-G-S-RA
+
+
+0
+3
+3
+_Connectors_GRZ
+TSW-110-07-G-S
+
+
+0
+10
+10
+_Connectors_GRZ
+TSW-110-25-G-S-RA
+
+
+0
+10
+10
+_Connectors_GRZ
+USB_A_Lumberg_2410_07
+
+USB _A
+0
+6
+5
+_Connectors_GRZ
+USB_Micro-B_Molex_105017-0001
+
+
+0
+11
+6
+_Diodes_GRZ
+PMEG2010EB
+
+SOD523
+0
+2
+2
+_Diodes_GRZ
+PMEG3005AESF
+
+SOD523
+0
+4
+2
+_Diodes_GRZ
+PMEG3005EB
+
+SOD523
+0
+2
+2
+_Diodes_GRZ
+PMEG3010AESB
+
+
+0
+2
+2
+_IC_Misc_GRZ
+DRV8323RSRGZ
+48-Lead Plastic QFN (7mm x 7mm) Pitch 0.5mm, 1 Exposed Pad
+QFN 0.5
+0
+64
+49
+_IC_Misc_GRZ
+FM24CL16B-G
+SOIC8
+
+0
+8
+8
+_IC_Misc_GRZ
+FT232RL
+
+FT232
+0
+28
+28
+_IC_Misc_GRZ
+IP5306
+
+
+0
+13
+9
+_IC_Misc_GRZ
+LM339PW
+
+LM339
+0
+14
+14
+_IC_Misc_GRZ
+MAX3051EKA
+
+MAX3051
+0
+8
+8
+_IC_Misc_GRZ
+PCA9306DCU
+VSSOP-8 2.3x2mm Pitch 0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+0
+8
+8
+_IC_Misc_GRZ
+TPA301D
+
+
+0
+8
+8
+_IC_Misc_GRZ
+TPS2001DDBV
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+_IC_Misc_GRZ
+TXB0104D
+SOIC14
+
+0
+14
+14
+_IC_Misc_GRZ
+TXB0104PW
+TSSOP14 0.65
+TXB
+0
+14
+14
+_IC_Misc_GRZ
+TXB0106PW
+
+TSSOP 16 0.65
+0
+16
+16
+_Inductors_GRZ
+B82462–G4
+
+
+0
+2
+2
+_Inductors_GRZ
+IHLP2525CZ
+
+
+0
+2
+2
+_Inductors_GRZ
+L_WE-TPC-3816
+Inductor, WE-TPC, Wurth, SMD, http://katalog.we-online.de/pbs/datasheet/744031220.pdf
+Inductor WE-TPC Wurth SMD
+0
+10
+2
+_Inductors_GRZ
+VLCF4020T
+
+
+0
+2
+2
+_Inductors_GRZ
+XFL4020
+
+
+0
+2
+2
+_Logic_GRZ
+74LVC1G34DBV
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+_Logos_GRZ
+PaparazziPenguin_5x5
+
+
+0
+0
+0
+_Logos_GRZ
+PaparazziPenguin_8x8
+
+
+0
+0
+0
+_Logos_GRZ
+PaparazziPenguin_10x10
+
+
+0
+0
+0
+_MCU_GRZ
+STM32F405RGT
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+_MCU_GRZ
+STM32F777VI
+
+
+0
+100
+100
+_MCU_GRZ
+STM32L476RGT
+64 LEAD LQFP 10x10mm
+QFP 0.5
+0
+64
+64
+_Misc_GRZ
+Crystal_8Z
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal 2520 8Z
+0
+4
+4
+_Misc_GRZ
+Crystal_FC-135
+
+SMD SMT crystal FC 135
+0
+2
+2
+_Misc_GRZ
+HARWIN_S1751-46
+
+
+0
+1
+1
+_Misc_GRZ
+SC4-7ND
+4x7cm fullrange loudspeaker shielded 
+loudspeaker
+0
+0
+0
+_Misc_GRZ
+SC4-7ND_grid
+4x7cm fullrange loudspeaker shielded 
+loudspeaker
+0
+0
+0
+_Modules_GRZ
+FC2004C03-FHYYBW-91LE
+4x20 Characters LCD Display
+LCD Dispaly
+0
+16
+16
+_Modules_GRZ
+NUCLEO64-L476RG_Socket_SMD
+
+
+0
+80
+80
+_Modules_GRZ
+NUCLEO64-L476RG_Socket_SMD_only
+
+
+0
+80
+80
+_Modules_GRZ
+PicoP2400_Socket_SMD
+
+
+0
+88
+82
+_Modules_GRZ
+XBP24-AUI_Socket
+
+XPB24
+0
+20
+20
+_Modules_GRZ
+XBP24-AUI_Socket_SMD
+
+XPB24
+0
+20
+20
+_Modules_GRZ
+XBP24_Socket_Only
+
+XPB24
+0
+20
+20
+_Modules_GRZ
+XBP24_Socket_SMD_Only
+
+XPB24
+0
+20
+20
+_Modules_GRZ
+uLCD-24PTU
+
+
+0
+46
+46
+_MountingHole_GRZ
+Hole_3.1mm
+Hole 3.1mm, no annular
+hole 3.1mm no annular
+0
+0
+0
+_MountingHole_GRZ
+MountingHole_2.1mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+_MountingHole_GRZ
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+_MountingHole_GRZ
+MountingHole_3.1mm_M3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+_MountingHole_GRZ
+MountingHole_3.2mm_M3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+_Opto_GRZ
+KP-1608CGCK
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+_Opto_GRZ
+KP-1608PBC
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+_Opto_GRZ
+KP-1608SEC
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+_Opto_GRZ
+KP-1608SURC
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+_Opto_GRZ
+KP-1608SYC
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+_Opto_GRZ
+SK6812-SIDE-A
+
+
+0
+4
+4
+_Regulators_GRZ
+LM3940IMP
+
+LM3940
+0
+4
+4
+_Regulators_GRZ
+LP5912DRV
+
+
+0
+9
+7
+_Regulators_GRZ
+LT1616
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+_Regulators_GRZ
+TPS7A84ARGR
+
+
+0
+25
+21
+_Regulators_GRZ
+TPS7A92
+
+
+0
+15
+11
+_Regulators_GRZ
+TPS7A7200RGT
+QFN16_3x3_P0.5
+QFN
+0
+17
+17
+_Regulators_GRZ
+TPS62110
+
+QFN
+0
+21
+17
+_Regulators_GRZ
+TPS62135
+
+
+0
+20
+11
+_Regulators_GRZ
+TPS621351
+
+
+0
+20
+11
+_Resistors_GRZ
+93R1A-R16_Panel_Mount
+
+
+0
+0
+0
+_Resistors_GRZ
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+_Resistors_GRZ
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+_Resistors_GRZ
+R_0805
+Resistor SMD 0805, reflow soldering
+resistor 0805
+0
+2
+2
+_Resistors_GRZ
+R_1206
+Resistor SMD 1206, reflow soldering
+resistor 0402
+0
+2
+2
+_Sensors_GRZ
+ACS713
+
+
+0
+8
+8
+_Sensors_GRZ
+BMP388
+LGA12_2x2_P0.5
+lga land grid array
+0
+10
+10
+_Sensors_GRZ
+ICM-20600
+LGA14_3x2.5_P0.5
+LGA
+0
+14
+14
+_Sensors_GRZ
+LIS3MDL
+LGA12_2x2_P0.5
+lga land grid array
+0
+12
+12
+_Sensors_GRZ
+LPS33HW
+
+lga land grid array
+0
+11
+11
+_Sensors_GRZ
+SDP31
+
+
+0
+21
+17
+_Switches_GRZ
+B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+BU-1000P Tactile Switch
+0
+2
+2
+_Switches_GRZ
+EC11B15242B1_Panel_Mount
+
+
+0
+0
+0
+_Switches_GRZ
+EC11E15244G1
+
+
+0
+7
+5
+_Switches_GRZ
+SolderJumper_2P_TrianglePads_0603
+
+capacitor 0603
+0
+5
+2
+_Universal_GRZ
+0402
+SMD chip 0402, reflow soldering
+0402
+0
+2
+2
+_Universal_GRZ
+0603
+SMD Chip, reflow soldering
+0603
+0
+2
+2
+_Universal_GRZ
+LGA10_2x2_P0.5
+LGA12_2x2_P0.5
+lga land grid array
+0
+10
+10
+_Universal_GRZ
+LGA12_2x2_P0.5
+LGA12_2x2_P0.5
+lga land grid array
+0
+12
+12
+_Universal_GRZ
+LGA14_3x2.5_P0.5
+LGA14_3x2.5_P0.5
+LGA
+0
+14
+14
+_Universal_GRZ
+LQFP64_10x10_P0.5
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+_Universal_GRZ
+QFN16_3x3_P0.5
+16-Lead Plastic Quad Flat - 3x3x0.9 mm Body
+QFN
+0
+17
+17
+_Universal_GRZ
+QFN16_4x4_P0.65
+16-Lead Plastic Quad Flat - 4x4x0.9 mm Body
+QFN
+0
+21
+17
+_Universal_GRZ
+QFN48-1EP_7x7_P0.5
+48-Lead Plastic QFN (7mm x 7mm) Pitch 0.5mm, 1 Exposed Pad
+QFN 0.5
+0
+64
+49
+_Universal_GRZ
+SOD523
+
+SOD523
+0
+2
+2
+_Universal_GRZ
+SOD993
+
+
+0
+2
+2
+_Universal_GRZ
+SOIC8
+
+
+0
+8
+8
+_Universal_GRZ
+SOIC8_EP2.1x2.1
+
+
+0
+13
+9
+_Universal_GRZ
+SOIC8_EP2.6x3.5
+
+
+0
+13
+9
+_Universal_GRZ
+SOIC14
+
+
+0
+14
+14
+_Universal_GRZ
+SON27_6x5_P0.5
+
+
+0
+22
+22
+_Universal_GRZ
+SOT23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+_Universal_GRZ
+SOT23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+_Universal_GRZ
+SOT23-8
+
+SOT23-8
+0
+8
+8
+_Universal_GRZ
+SOT223
+
+SOT 223
+0
+4
+4
+_Universal_GRZ
+SSOP28
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+_Universal_GRZ
+TFBGA100_8x8_P0.8_D0.4
+
+
+0
+100
+100
+_Universal_GRZ
+TFBGA100_8x8_P0.8_D0.38
+
+
+0
+100
+100
+_Universal_GRZ
+TSSOP14
+
+TSSOP 14 0.65
+0
+14
+14
+_Universal_GRZ
+TSSOP16
+
+TSSOP 16 0.65
+0
+16
+16
+_Universal_GRZ
+VQFN11-HR
+
+
+0
+20
+11
+_Universal_GRZ
+VQFN20_3.5x3.5_P0.5
+
+
+0
+25
+21
+_Universal_GRZ
+VSSOP8_2x2.3_P0.5
+VSSOP-8 2.3x2mm Pitch 0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+0
+8
+8
+_Universal_GRZ
+WSON6_2x2_P0.65
+
+
+0
+9
+7
+_Universal_GRZ
+WSON10_2.5x2.5_P0.5
+
+
+0
+15
+11
+_Wire_Pads_GRZ
+SolderWirePad_SMD_3x7mm
+
+
+0
+1
+1
+_Wire_Pads_GRZ
+SolderWirePad_SMD_P_5.08_2x3x7mm
+
+
+0
+2
+2
+_Wire_Pads_GRZ
+SolderWirePad_SMD_P_5.08_3x3x7mm
+
+
+0
+3
+3
+_Wire_Pads_GRZ
+SolderWirePad_SMD_P_5.08_5x3x7mm
+
+
+0
+5
+5
+_Wire_Pads_GRZ
+SolderWirePads_SMD_P100mil_4x65x100mil
+
+Wire Pad Square SMD  65mil  100mil
+0
+4
+4
+_Wire_Pads_GRZ
+SolderWirePads_SMD_P100mil_4x65x150mil
+
+Wire Pad Square SMD  65mil  100mil
+0
+4
+4
+_Wire_Pads_GRZ
+SquareWirePad_SMD_2x4mm
+
+
+0
+1
+1
+_Wire_Pads_GRZ
+SquareWirePad_SMD_3x5mm
+
+
+0
+1
+1
