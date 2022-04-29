@@ -5,32 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Black Magic Probe",
-            "type": "cppdbg",
+            "name": "cortex debug",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/ch.elf",
             "request": "launch",
-            "preLaunchTask": "build",
-            "cwd": "${workspaceRoot}",
-            "MIMode": "gdb",
-            "targetArchitecture": "arm",
-            "logging": {
-                "engineLogging": true
-            },
-            "program": "${workspaceRoot}/build/ch.elf",
-            "miDebuggerPath": "arm-none-eabi-gdb",
-            "customLaunchSetupCommands": [
-                {"text": "cd ${workspaceRoot}/build"},
-                {"text": "target extended-remote /dev/bmp_gdb"},
-                {"text": "monitor swdp_scan"},
-                {"text": "attach 1"},
-                {"text": "file ch.elf"},
-                {"text": "load"},
-                {"text": "cd ${workspaceRoot}"},
-                {"text": "set mem inaccessible-by-default off"},
-                {"text": "break main"}
-              ]
+            "type": "cortex-debug",
+            "servertype": "bmp",
+            "BMPGDBSerialPort": "/dev/bmp_gdb",
+            "gdbPath": "gdb-multiarch"
+        },
+        {
+            "name": "Cortex Debug attach",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/ch.elf",
+            "request": "attach",
+            "type": "cortex-debug",
+            "servertype": "bmp",
+            "BMPGDBSerialPort": "/dev/bmp_gdb",
+            "gdbPath": "gdb-multiarch",
+            "svdFile": "${workspaceFolder}/STM32F767.svd"
+            //"showDevDebugOutput": true
         }
-
-
-
     ]
 }
